@@ -1,0 +1,28 @@
+{
+    "name": "sunnysideup/sswebpack_skeleton",
+    "type": "silverstripe-theme",
+    "description": "Webpack base theme using the skeleton",
+    "keywords": [
+        "silverstripe",
+        "webpack",
+        "webpack theme",
+        "silverstripe webpack",
+        "skeleton",
+        "front-end framework"
+    ],
+    "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+    "authors": [
+        {
+            "name": "Nicolaas Francken",
+            "email": "modules@sunnysideup.co.nz",
+            "role": "lead developer"
+        }
+    ],
+    "require":
+    {
+        "silverstripe/framework": "~3.1"
+    },
+    "extra": {
+        "installer-name": "sswebpack_base"
+    }
+}
