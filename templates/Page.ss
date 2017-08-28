@@ -10,7 +10,6 @@
     <header>
         <a href="/" class="home-button">$SiteConfig.Title</a>
         <% include Navigation %>
-        <a href="#" class="menu-button">menu</a>
     </header
     <div id="Layout">
         <% include Breadcrumbs %>

@@ -1,5 +1,4 @@
 <nav id="main-menu">
-    <a href="#" class="close-menu">×</a>
     <ul id="Nav">
 <% loop Menu(1) %>
         <li class="$FirstLast">
