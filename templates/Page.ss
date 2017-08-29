@@ -13,7 +13,7 @@
     </header
     <div id="Layout">
         <% include Breadcrumbs %>
-        <div id="page-holder">
+        <div id="page-holder" class="container">
             $Layout
         </div>
         <% include Footer %>
