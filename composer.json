@@ -1,5 +1,5 @@
 {
-    "name": "sunnysideup/sswebpack_skeleton",
+    "name": "sunnysideup/skeleton",
     "type": "silverstripe-theme",
     "description": "Webpack base theme using the skeleton",
     "keywords": [
