@@ -21,8 +21,8 @@
     "require":
     {
         "silverstripe/framework": "~3.1",
-        "sunnysideup/webpack_backend_requirements": "*",
-        "sunnysideup/sswebpack_engine_only": "*"
+        "sunnysideup/webpack_backend_requirements": "dev-master",
+        "sunnysideup/sswebpack_engine_only": "dev-master"
     },
     "extra": {
         "installer-name": "skeleton"
