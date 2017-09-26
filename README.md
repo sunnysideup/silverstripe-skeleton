@@ -1,12 +1,12 @@
-# Silverstripe sswebpack skeleton module
-[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-sswebpack_skeleton.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-sswebpack_skeleton)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-sswebpack_skeleton/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-sswebpack_skeleton/?branch=master)
-[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-sswebpack_skeleton/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-sswebpack_skeleton?branch=master)
-![helpfulrobot](https://helpfulrobot.io/sunnysideup/sswebpack_skeleton/badge)
+# Silverstripe skeleton module
+[![Build Status](https://travis-ci.org/sunnysideup/silverstripe-skeleton.svg?branch=master)](https://travis-ci.org/sunnysideup/silverstripe-skeleton)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-skeleton/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/sunnysideup/silverstripe-skeleton/?branch=master)
+[![codecov.io](https://codecov.io/github/sunnysideup/silverstripe-skeleton/coverage.svg?branch=master)](https://codecov.io/github/sunnysideup/silverstripe-skeleton?branch=master)
+![helpfulrobot](https://helpfulrobot.io/sunnysideup/skeleton/badge)
 
-[![Latest Stable Version](https://poser.pugx.org/sunnysideup/sswebpack_skeleton/version)](https://packagist.org/packages/sunnysideup/sswebpack_skeleton)
-[![License](https://poser.pugx.org/sunnysideup/sswebpack_skeleton/license)](https://packagist.org/packages/sunnysideup/sswebpack_skeleton)
-[![Monthly Downloads](https://poser.pugx.org/sunnysideup/sswebpack_skeleton/d/monthly)](https://packagist.org/packages/sunnysideup/sswebpack_skeleton)
+[![Latest Stable Version](https://poser.pugx.org/sunnysideup/skeleton/version)](https://packagist.org/packages/sunnysideup/skeleton)
+[![License](https://poser.pugx.org/sunnysideup/skeleton/license)](https://packagist.org/packages/sunnysideup/skeleton)
+[![Monthly Downloads](https://poser.pugx.org/sunnysideup/skeleton/d/monthly)](https://packagist.org/packages/sunnysideup/skeleton)
 
 
 ## Documentation
@@ -15,7 +15,7 @@
 
  * [Developer Docs](docs/en/INDEX.md)
  * [User Guide](docs/en/userguide.md)
- * [API Docs](http://docs.ssmods.com/sunnysideup/sswebpack_skeleton/classes.xhtml)
+ * [API Docs](http://docs.ssmods.com/sunnysideup/skeleton/classes.xhtml)
 
 ## Requirements
 
@@ -34,19 +34,19 @@ see [composer.json](composer.json) for details
 
 
 ```
-composer require sunnysideup/sswebpack_skeleton
+composer require sunnysideup/skeleton
 ```
 
 ### Configuration
 
 
 
-In the `_config` folder you will find the `sswebpack_skeleton.yml.example`
+In the `_config` folder you will find the `skeleton.yml.example`
 file that shows options for the configuration of this module.
 
 We recommend that you:
 
-  1. copy these `sswebpack_skeleton.yml.example` files into your
+  1. copy these `skeleton.yml.example` files into your
 `mysite/_config` folder
   2. remove the .example extension
   3. delete the lines you not care about, and
